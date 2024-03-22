@@ -28,4 +28,4 @@ for (let i=0; i<M; i++)
             k++;
         }
     }
-} 
+} console.log(k);
